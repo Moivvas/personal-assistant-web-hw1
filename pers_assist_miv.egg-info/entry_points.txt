@@ -1,3 +1,0 @@
-[console_scripts]
-assist = personal_assistant.main_menu:menu
-
