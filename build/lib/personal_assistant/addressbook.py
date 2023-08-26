@@ -4,7 +4,7 @@ from rich.console import Console
 from rich.table import Table
 from personal_assistant.address_book_classes import Record, Name, Phone, Birthday, Email, Address, Note, AddressBook
 from datetime import date, timedelta, datetime
-from new_ABC import RichCommands
+from personal_assistant.new_ABC import RichCommands
 
 
 address_book = AddressBook()

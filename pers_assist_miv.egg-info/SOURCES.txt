@@ -1,0 +1,14 @@
+setup.py
+pers_assist_miv.egg-info/PKG-INFO
+pers_assist_miv.egg-info/SOURCES.txt
+pers_assist_miv.egg-info/dependency_links.txt
+pers_assist_miv.egg-info/entry_points.txt
+pers_assist_miv.egg-info/requires.txt
+pers_assist_miv.egg-info/top_level.txt
+personal_assistant/address_book_classes.py
+personal_assistant/addressbook.py
+personal_assistant/main_menu.py
+personal_assistant/new_ABC.py
+personal_assistant/normalize.py
+personal_assistant/notes.py
+personal_assistant/sort.py

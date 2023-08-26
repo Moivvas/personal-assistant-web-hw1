@@ -3,7 +3,7 @@ from collections import UserDict
 import pickle
 from rich.console import Console
 from rich.table import Table
-from new_ABC import RichCommands
+from personal_assistant.new_ABC import RichCommands
 
 
 class Tag:

@@ -1,7 +1,7 @@
 from personal_assistant.sort import sorter_starter
 from personal_assistant.addressbook import addressbook_starter
 from personal_assistant.notes import notes_main as notes_starter
-from new_ABC import RichCommands
+from personal_assistant.new_ABC import RichCommands
 from abc import ABC, abstractmethod
 
 
